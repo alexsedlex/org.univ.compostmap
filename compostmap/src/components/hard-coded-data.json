@@ -1,0 +1,192 @@
+[
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "01ac20457c2b9c2d902dbdc646d3aa05549b313b",
+    "fields": {
+      "categorie": "Composteur ouvert au quartier",
+      "adresse": "19, rue du Moulin des Chalonges",
+      "annee": "2011",
+      "lieu": "Thouar\u00e9-sur-Loire",
+      "location": [47.27461839932001, -1.429468900657703],
+      "nom": "Jardin Famibio",
+      "lien": "https://pom-e.compostri.fr/composteur/jardin-famibio",
+      "id": "37"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.429468900657703, 47.27461839932001]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "fee29b1fb50f6e815b011c0a27961a0858911b1d",
+    "fields": {
+      "categorie": "Composteur ouvert au quartier",
+      "adresse": "2 rue marion cahour",
+      "annee": "2012",
+      "lieu": "Rez\u00e9",
+      "location": [47.189655198794505, -1.5641083004444472],
+      "nom": "FJT Grand Voile",
+      "lien": "https://pom-e.compostri.fr/composteur/fjt-grand-voile",
+      "id": "57"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.5641083004444472, 47.189655198794505]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "55e1e4ad8b285765806a2a80b663cbe59a78a902",
+    "fields": {
+      "categorie": "Composteur en r\u00e9sidence - copropri\u00e9t\u00e9",
+      "adresse": "109 Rue des Carterons",
+      "annee": "2012",
+      "lieu": "Rez\u00e9",
+      "location": [47.17241532852669, -1.5274643896094982],
+      "nom": "Rotereaux",
+      "lien": "https://pom-e.compostri.fr/composteur/rotereaux",
+      "id": "63"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.5274643896094982, 47.17241532852669]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "8e72a02673e978558a73cc475c1c827294610f10",
+    "fields": {
+      "categorie": "Composteur ouvert au quartier",
+      "adresse": "rue Alphonse Beillevaire",
+      "annee": "2013",
+      "lieu": "Orvault",
+      "location": [47.24969899863552, -1.6054680000338881],
+      "nom": "Choli\u00e8re",
+      "lien": "https://pom-e.compostri.fr/composteur/choliere",
+      "id": "66"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.6054680000338881, 47.24969899863552]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "ad310a3eae6cbfebf2e45f9a9335743e1fc54e60",
+    "fields": {
+      "categorie": "Composteur ouvert au quartier",
+      "adresse": "rue Vega",
+      "annee": "2013",
+      "lieu": "Rez\u00e9",
+      "location": [47.191434999327605, -1.558403600073043],
+      "nom": "CSC Port au Bl\u00e9",
+      "lien": "https://pom-e.compostri.fr/composteur/csc-port-au-ble",
+      "id": "69"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.558403600073043, 47.191434999327605]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "54c1113b2a2633231919ab78bbad282c3c09ce97",
+    "fields": {
+      "categorie": "Composteur ouvert au quartier",
+      "adresse": "\u00c9cole des Mines de Nantes \nLa Chantrerie 4, rue Alfred Kastler",
+      "annee": "2013",
+      "lieu": "Nantes",
+      "location": [47.28209229911155, -1.519850000198018],
+      "nom": "Ecole des Mines - R\u00e9sidence \u00e9tudiant",
+      "lien": "https://pom-e.compostri.fr/composteur/ecole-des-mines-residence-etudiant",
+      "id": "72"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.519850000198018, 47.28209229911155]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "fd1431378895416610930c593615060cb6131eec",
+    "fields": {
+      "categorie": "Composteur P\u00e9dagogique en \u00e9tablissement scolaire",
+      "adresse": "Avenue de la Ferri\u00e8re",
+      "annee": "2014",
+      "lieu": "Orvault",
+      "location": [47.24497099923392, -1.591808000233243],
+      "nom": "Cuisine Ecole Ferri\u00e8re",
+      "lien": "https://pom-e.compostri.fr/composteur/cuisine-ecole-ferriere",
+      "id": "97"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.591808000233243, 47.24497099923392]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "f985b4a33e9bccce27339772c62cb8ef88e600aa",
+    "fields": {
+      "categorie": "Composteur P\u00e9dagogique en \u00e9tablissement scolaire",
+      "adresse": "4 Rue de Marseille",
+      "annee": "2014",
+      "lieu": "Saint-Herblain",
+      "location": [47.20631799874052, -1.616953999382799],
+      "nom": "Ecole de la Bernardi\u00e8re",
+      "lien": "https://pom-e.compostri.fr/composteur/ecole-de-la-bernardiere",
+      "id": "99"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.616953999382799, 47.20631799874052]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "b3a23c4eee7b8c1da1ac3756ca928b5f1b12cbea",
+    "fields": {
+      "categorie": "Composteur en r\u00e9sidence - copropri\u00e9t\u00e9",
+      "adresse": "rue de Marseille et rue de Camargue",
+      "annee": "2014",
+      "lieu": "Saint-Herblain",
+      "location": [47.20509199894213, -1.616212999583425],
+      "nom": "Les C\u00f4teaux",
+      "lien": "https://pom-e.compostri.fr/composteur/les-coteaux",
+      "id": "108"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.616212999583425, 47.20509199894213]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  },
+  {
+    "datasetid": "512042839_composteurs-quartier-nantes-metropole",
+    "recordid": "881a4e59a8d3c62defa7394d4f8f50f550701f72",
+    "fields": {
+      "categorie": "Composteur P\u00e9dagogique en \u00e9tablissement scolaire",
+      "adresse": "19 rue Yves Kartel",
+      "annee": "2015",
+      "lieu": "Nantes",
+      "location": [47.2088469989868, -1.607362999487907],
+      "nom": "\u00c9cole Jean Zay",
+      "lien": "https://pom-e.compostri.fr/composteur/ecole-jean-zay",
+      "id": "119"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.607362999487907, 47.2088469989868]
+    },
+    "record_timestamp": "2022-01-01T04:00:03.158000+00:00"
+  }
+]

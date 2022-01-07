@@ -8,7 +8,8 @@
 
 <script>
 import Composter from "./Composter.vue";
-import axios from "axios";
+// Import hard-coded list directly from json
+import hardCodedCompostersList from "./hard-coded-data.json";
 
 export default {
   name: "ComposterDetailPage",
@@ -16,31 +17,17 @@ export default {
     id: String,
   },
   data() {
+    // Find the composter on which this detail view is focused
+    var focusedComposter = hardCodedCompostersList.filter(
+      (composter) => composter.recordid == this.id
+    );
     return {
-      isLoading: true,
-      composter: {},
+      isLoading: false,
+      composter: focusedComposter[0],
     };
   },
   components: {
     Composter,
-  },
-  mounted() {
-    axios
-      .get(
-        "https://data.nantesmetropole.fr/api/records/1.0/search/?dataset=512042839_composteurs-quartier-nantes-metropole&rows=100"
-      )
-      .then((response) => {
-        var composterWithId = response.data.records.filter(
-          (record) => record.recordid == this.id
-        );
-        if (composterWithId.length > 0) {
-          this.composter = response.data.records[0];
-          this.isLoading = false;
-        }
-      })
-      .catch((error) => {
-        console.log(error);
-      });
   },
 };
 </script>
